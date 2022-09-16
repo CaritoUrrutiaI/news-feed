@@ -1,0 +1,45 @@
+body {
+    background-color: #c8c8c8;
+    margin: 0;
+}
+.header {
+    font-family: Verdana;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.feed {
+    background-color: #c8c8c8;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+.post{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+.post-footer {
+    font-family: verdana ;
+    font-size: 14px;
+    padding: 10px;
+}
+.post-body img {
+    width: 100%;   
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; 
+}
+.post-header h2 {
+    margin: 0;
+}
